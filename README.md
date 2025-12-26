@@ -1,7 +1,11 @@
 This project applies Unsupervised Machine Learning to a heart disease dataset. Using K-Means Clustering, the goal is to group patient data into distinct clusters based on clinical features to identify patterns that might indicate different levels of health risks.
 
 Requirements
+File name: heart.csv
 
+Source: Common Heart Disease dataset (UCI-style)
+
+Make sure heart.csv is located in the same directory as the Python file.
 Make sure you have Python 3.8+ installed.
 
 Install the required libraries using:
